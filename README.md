@@ -14,5 +14,6 @@ This repository contains Python implementations of various algorithms to solve t
 - Visualize the results to see how each algorithm optimizes the TSP and finds paths between cities.
 
 ## Examples
-https://imgur.com/rsYDLiv
+
+![]([http://i.imgur.com/OUkLi.gif](https://imgur.com/rsYDLiv))
 
