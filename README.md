@@ -17,3 +17,4 @@ This repository contains Python implementations of various algorithms to solve t
 
 ![]([http://i.imgur.com/OUkLi.gif](https://imgur.com/rsYDLiv))
 
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)]([](http://i.imgur.com/OUkLi.gif](https://imgur.com/rsYDLiv))
