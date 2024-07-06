@@ -7,6 +7,8 @@ This repository contains Python implementations of various algorithms to solve t
 - **Hill Climbing**: A local search algorithm for finding local optima.
 - **BFS (Breadth-First Search)**: A graph traversal algorithm for unweighted graphs.
 - **UCS (Uniform Cost Search)**: A graph traversal algorithm for finding the cheapest path.
+- **DFS (Depth First Saw)**: A graph traversal algorithm for finding the cheapest path.
+
 
 ## Usage
 - Each algorithm is implemented in Python and can be run individually.
