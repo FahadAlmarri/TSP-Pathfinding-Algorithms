@@ -14,11 +14,5 @@ This repository contains Python implementations of various algorithms to solve t
 - Visualize the results to see how each algorithm optimizes the TSP and finds paths between cities.
 
 ## Examples
-- Include examples of solving the TSP with sample input data.
-- Visualize the paths and optimizations achieved by each algorithm.
 
-## Contributing
-Contributions are welcome! Fork this repository, make your changes, and submit a pull request with a clear description of your modifications.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
